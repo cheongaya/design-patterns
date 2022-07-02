@@ -1,6 +1,6 @@
-package example.behavior;
+package example.behavior.impl;
 
-import example.behavior.impl.QuackBehavior;
+import example.behavior.QuackBehavior;
 
 public class MuteQuack implements QuackBehavior {
     @Override

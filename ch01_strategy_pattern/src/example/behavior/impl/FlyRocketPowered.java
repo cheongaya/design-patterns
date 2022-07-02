@@ -1,6 +1,6 @@
-package example.behavior;
+package example.behavior.impl;
 
-import example.behavior.impl.FlyBehavior;
+import example.behavior.FlyBehavior;
 
 public class FlyRocketPowered implements FlyBehavior {
     @Override
