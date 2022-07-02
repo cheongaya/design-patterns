@@ -1,7 +1,7 @@
 package example;
 
-import example.behavior.impl.FlyBehavior;
-import example.behavior.impl.QuackBehavior;
+import example.behavior.FlyBehavior;
+import example.behavior.QuackBehavior;
 
 public abstract class Duck {
 
