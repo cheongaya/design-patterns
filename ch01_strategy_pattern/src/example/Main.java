@@ -1,6 +1,6 @@
 package example;
 
-import example.behavior.impl.FlyRocketPowered;
+import example.behavior.FlyRocketPowered;
 
 public class Main {
     public static void main(String[] args) {

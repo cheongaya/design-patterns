@@ -1,6 +1,6 @@
-package example.behavior.impl;
+package example.behavior;
 
-import example.behavior.FlyBehavior;
+import example.behavior.impl.FlyBehavior;
 
 public class FlyNoWay implements FlyBehavior {
     @Override
